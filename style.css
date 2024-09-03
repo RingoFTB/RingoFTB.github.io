@@ -26,7 +26,7 @@ body{
     position: relative;
     height: 100vh;
     color: var(--textcolor);
-    background-image: linear-gradient(120deg, #F9BA89 0%, #f3b17e 100%);
+    background-image: linear-gradient(120deg, #F9BD81 0%, #f3b06d 100%);
     background-size: 100% 100%;
     background-attachment: fixed;
 }
