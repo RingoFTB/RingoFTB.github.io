@@ -6,3 +6,6 @@ table{
     border: 4px, double, blue;
     justify-self: center;
 }
+body {
+  background-color: AliceBlue;
+}
