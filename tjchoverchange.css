@@ -1,0 +1,15 @@
+img {
+    border: 10px, double, purple
+  }
+
+img:hover{
+  border: 20px, double, lightblue
+  
+}
+h1 {
+  color: lightblue
+}
+
+h1:hover{
+  color: purple
+}
